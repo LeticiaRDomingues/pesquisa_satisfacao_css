@@ -4,7 +4,7 @@ Este é um projeto simples de formulário para coleta de dados de satisfação, 
 
 ## 📝 Funcionalidades
 
-- Coleta do **nome** e **idade** do usuário.
+- Coleta do **nome**, **idade** e **e-mail** do usuário.
 - Escolha do nível de satisfação em uma escala (Ruim, Regular, Bom, Ótimo).
 - Validação de campos obrigatórios diretamente em HTML.
 - Prevenção de valores negativos no campo de idade.
