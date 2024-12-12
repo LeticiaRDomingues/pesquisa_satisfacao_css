@@ -1,0 +1,40 @@
+body {
+  display: flex;
+  justify-content: center;
+  font-family: "Roboto", sans-serif;
+  line-height: 35px;
+  background-color: rgba(242, 241, 241, 0.778);
+}
+
+h1 {
+  text-align: center;
+  font-size: 30px;
+  color: #333;
+  margin-top: 0px;
+}
+
+label {
+  font-size: 20px;
+  color: #333;
+}
+
+input[type="text"],
+[type="email"] {
+  width: 70%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+.container {
+    text-align: center;
+  background-color: white;
+  padding: 20px;
+  margin-top: 190px;
+  height: 300px;
+  width: 800px;
+  border-radius: 30px;
+}
+
+
